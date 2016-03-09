@@ -1,0 +1,5 @@
+python-dateutil==2.5.0
+rethinkdb==2.2.0.post5
+python-dateutil==2.5.0
+rethinkdb==2.2.0.post5
+six==1.10.0
